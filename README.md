@@ -5,10 +5,10 @@ Desenvolvedor Full Stack | Entusiasta de PHP & JavaScript
 
 **Encontre-me em:**
 
-<a href="https://www.linkedin.com/in/marcos-vinicius-oliveira-422962234/" target="_blank">
+<a href="https://www.linkedin.com/in/marcos-vinicius-brand%C3%A3o-422962234/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://marcosviniciusob.com/" target="_blank">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://marcosviniciusbrandao.com.br/" target="_blank">
   <img src="https://img.shields.io/badge/-Meu%20Portfólio-20232a?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
 </a>
 
