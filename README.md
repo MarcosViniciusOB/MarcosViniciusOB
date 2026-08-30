@@ -1,4 +1,8 @@
-# Marcos Vinicius 👋
+<div align="center">
+
+![Wave Banner](https://capsule-render.vercel.app/api?type=waving&color=003b69&height=250&section=header&text=Marcos%20Vinicius%20Brandão&fontSize=60&fontColor=64B5F6&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descSize=20&descAlignY=65)
+
+</div>
 
 <p align="justify" style="margin-bottom: 0;">
 Estudante de Ciência da Computação PUC-GO <br>
@@ -44,3 +48,9 @@ Desenvolvedor Full Stack | Entusiasta de PHP & JavaScript</p>
 <br>
 
 > *"A única maneira de fazer um excelente trabalho é amar o que você faz."* — **Steve Jobs**
+
+<div align="center">
+
+![Wave Footer](https://capsule-render.vercel.app/api?type=waving&color=003b69&height=100&section=footer)
+
+</div>
